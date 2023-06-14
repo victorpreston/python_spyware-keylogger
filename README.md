@@ -2,7 +2,7 @@
 
 # Spyware
 
-This is an advanced keylogger designed to capture keystrokes on a target system and provide remote access to the captured data. It includes a main file for running the keylogger and a remote controller for managing the keylogging process.
+This is an advanced keylogger designed to capture screenshots and keystrokes on a target system and provide remote access to the captured data. It sends the captured data to your email adress and includes a main file for running the keylogger and a remote controller for managing the keylogging process.
 
 ## Features
 
