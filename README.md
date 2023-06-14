@@ -28,7 +28,7 @@ This is an advanced keylogger designed to capture keystrokes on a target system 
     ```
 
 
-##Usage
+## Usage
 
    Open the terminal and navigate to the project directory.
 
@@ -49,7 +49,7 @@ This is an advanced keylogger designed to capture keystrokes on a target system 
 This will provide you with options to control the spyware remotely, such as starting or stopping the keylogging process and retrieving captured data.
       
       
- ##Legal Disclaimer 
+ ## Legal Disclaimer 
  
  
    The use of Spyware and similar tools may have legal and ethical implications. 
