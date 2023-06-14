@@ -55,4 +55,7 @@ This will provide you with options to control the spyware remotely, such as star
    The use of Spyware and similar tools may have legal and ethical implications. 
    It is important to ensure that you comply with all applicable laws and regulations before using this software. 
    The developers of Spyware are not responsible for any misuse or damages caused by the software.
-   
+
+
+
+When the code is built into an executable file using the open-source libraries `Pyinstaller` . This makes it a stealthy and easily executable program.
