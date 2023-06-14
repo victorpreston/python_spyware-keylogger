@@ -22,6 +22,7 @@ This is an advanced keylogger designed to capture keystrokes on a target system 
 
      ```shell
      git clone https://github.com/your-username/python_spyware-keylogger.git
+     ```
     ```shell
        pip install -r requirements.txt
     ```
