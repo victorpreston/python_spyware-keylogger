@@ -43,14 +43,16 @@ This is an advanced keylogger designed to capture keystrokes on a target system 
    Modify the necessary settings, such as the IP address and port for remote access.
 
    Run the remote controller:
-    ```shell
+    ```
        python3 remote_controller.py
     ```
 This will provide you with options to control the spyware remotely, such as starting or stopping the keylogging process and retrieving captured data.
       
       
  ##Legal Disclaimer 
-    The use of Spyware and similar tools may have legal and ethical implications. 
-    It is important to ensure that you comply with all applicable laws and regulations before using this software. 
-    The developers of Spyware are not responsible for any misuse or damages caused by the software.
+ 
+ 
+   The use of Spyware and similar tools may have legal and ethical implications. 
+   It is important to ensure that you comply with all applicable laws and regulations before using this software. 
+   The developers of Spyware are not responsible for any misuse or damages caused by the software.
    
